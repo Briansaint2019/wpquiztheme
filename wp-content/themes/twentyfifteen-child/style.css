@@ -1,0 +1,35 @@
+/*
+Theme Name: Twenty fifteen Child
+Theme URL: http://hostinger-tutorials.com
+Description: Twenty fifteen Child Theme
+Author: Brian Saint-Hilaire
+
+Template: twentyfifteen
+Version: 1.0.0
+Text Domain: Twent Fifteen-child
+*/ 
+
+body{
+    background-image: url("./imgs/hiRxbVu.jpg");
+    background-size: fill;
+
+}
+.site-content-contain {
+    background-color: #d5ffa0;
+    position: relative;
+}
+
+.hentry{
+    background-color: #d5ffa0;
+    border-radius: 10px;
+
+}
+
+.entry-footer{
+    border-radius: 0 0 10px 10px ;
+}
+
+.widget-area{
+    background-color:#d5ffa0;
+    
+}
